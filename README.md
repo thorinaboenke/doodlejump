@@ -11,4 +11,5 @@ git clone https://github.com/thorinaboenke/doodlejump
 open the file index.html in a browser
 
 ## Gameplay
-![image info](./doodlejump.png)
+<img src="https://github.com/thorinaboenke/doodlejump/doodlejump.png" width="300" alt='doodlejump screenshot'>
+
