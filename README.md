@@ -10,6 +10,8 @@ git clone https://github.com/thorinaboenke/doodlejump
 
 open the file index.html in a browser
 
+use the left, right and up arrow keys to move
+
 ## Gameplay
 <img src="https://github.com/thorinaboenke/doodlejump/blob/master/doodlejump.png" width="300" alt='doodlejump screenshot'>
 
